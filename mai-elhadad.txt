@@ -1,0 +1,27 @@
+# Task 1: Set up Project
+https://codepen.io/MaiElhadad99/pen/jOrZGqv
+ https://codepen.io/MaiElhadad99/pen/YzWeQXa
+
+Task 2: MVP
+https://codepen.io/MaiElhadad99/pen/abZYjPy?editors=1100
+
+Task 3: Stretch
+1. What is the difference between an inline element and a block element?
+      block elements like <p> <h1> <div> <nav> which will create a new line after the closing tag, whereas inline is <ahref></a> <img><span> will never create a new line.
+    2. What happens when an element is positioned absolutely? 
+    The absolutely positioned is taken element is positioned relative to its nearest positioned ancestor.  
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    display:inline-block0
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    block
+    1-<p>
+    2-<h1>
+    3-<div>
+    inline: 
+    1-<a href>
+    2-<img>
+    <span>
+    5. In your own words, explain the box model. What is the fix for the box model? 
+    The wrap around all HTML elements. it contains: CONTENT, PADDING,BORDER, AMD MARGIN.0
+
+
